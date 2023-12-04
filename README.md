@@ -1,6 +1,6 @@
 !Hola, mi nombre es Valentin Barberis!
 
-Soy de Rafaela, una ciudad situada al oeste de la provincia.
+Soy de Rafaela, una ciudad situada al oeste de la provincia de Santa Fe.
 
 Tengo 20 años, me gusta el futbol y soy hincha fanatico del Club Atletico de Rafaela que actualmente milita en el Nacional B.
 
