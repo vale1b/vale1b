@@ -1,4 +1,4 @@
-👋  Hola, mi nombre es {Valentin Barberis}!
+👋  Hola, mi nombre es ${Valentin Barberis}!
 
 🏠  Soy de Rafaela, una ciudad situada al oeste de la provincia de Santa Fe.
 
