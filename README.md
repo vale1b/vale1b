@@ -22,7 +22,7 @@
        - CSS
        - JavaScript
        - React
-       - Astro
+       - ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
      
 
 
