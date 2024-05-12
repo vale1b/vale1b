@@ -14,8 +14,6 @@ Habilidades: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg
 - 📫 Cómo contactarme: barberisvalentin56@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/vale1b)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/valenbarberis//)  
-
 
      
 
