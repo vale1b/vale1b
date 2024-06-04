@@ -3,7 +3,7 @@
 
 ⚽ Me gusta el futbol y soy hincha fanatico del Club Atletico de Rafaela que actualmente milita en el Nacional B.
 
-🏀 Disfruto mucho de las noches de NBA siendo mi franquicia favorita los Boston Celtics y mi jugador a seguir es Jayson Tatum.
+🏀 Disfruto mucho de las noches de NBA siendo mi franquicia favorita los Dallas Mavericks y mi jugador a seguir es Luka Doncic.
 
 💻 Actualmente estoy en la busqueda de mi primera experiencia laboral dentro de la Programacion y asi poder desarrollar mis habilidades tecnicas al mismo tiempo que aprendo de gente con experiencia en sector.
 
